@@ -1,7 +1,7 @@
 /*
-USELESS BOX z funkcja swiatloluba
+Author: Adam Napieralski
 
-Adam Napieralski | Konrad Zebrowski
+USELESS BOX with light following mode
 */
 
 
